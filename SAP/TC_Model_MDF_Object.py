@@ -1,0 +1,28 @@
+class Model_ObjectDefinition:
+    item_id = ""
+    Title = ""
+    Code = ""
+    Effective_Dating = ""
+    API_Visibility = ""
+    Status = ""
+    MDF_Version_History = ""
+    Default_Screen = ""
+    Label = ""
+    Description = ""
+    API_Sub_Version = ""
+    Subject_User_Field = ""
+    Workflow_Routing = ""
+    Pending_Data = ""
+    Todo_Category = ""
+    Object_Category = ""
+    Secured = ""
+    Permission_Category = ""
+    RBP_Subject_User_Field = ""
+    CREATE_Respects_Target_Criteria = ""
+    Base_Date_Field_For_Blocking = ""
+
+
+class Processing_ObjectDefinitionStatus:
+    item_id = ""
+    Object_Definition = ""
+    Object_Definition_Status = ""
